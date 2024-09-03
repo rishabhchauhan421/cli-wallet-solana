@@ -1,3 +1,5 @@
+//run using npx esrun generate-keypair
+
 import { Keypair } from '@solana/web3.js';
 import { getKeypairFromEnvironment } from '@solana-developers/helpers';
 import dotenv from 'dotenv';
